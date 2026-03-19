@@ -1,3 +1,4 @@
+//Inti Catacora 78368
 // Get the form from the HTML using its unique ID
 const formStudentReg = document.getElementById("myBigForm");
 
